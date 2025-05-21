@@ -1,13 +1,6 @@
 ```markdown
 # Vagrant Multi-Tier Web Application Infrastructure (NGINX + Node.js + Redis + MySQL)
 
-![Vagrant](https://img.shields.io/badge/Vagrant-1868F2?style=for-the-badge&logo=vagrant&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
-![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
 A complete virtualized development environment simulating a production-ready web application infrastructure with:
 - NGINX load balancer
 - Multiple Node.js application servers
@@ -26,8 +19,8 @@ Before you begin, ensure you have the following installed:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/mohamedfawzizaki/e2e-devops-vagrant-3tier.git
-   cd e2e-devops-vagrant-3tier
+   git clone https://github.com/mohamedfawzizaki/e2e-devops-multi-tier-webstack.git
+   cd e2e-devops-multi-tier-webstack
    ```
 
 2. Start the virtual infrastructure:
@@ -164,5 +157,5 @@ Each VM is provisioned with specific setup scripts:
 
 Mohamed Fawzi Zaki - mohamedfawzizaki@gmail.com
 
-Project Link: [https://github.com/yourusername/vagrant-multi-tier-app](https://github.com/yourusername/vagrant-multi-tier-app)
+Project Link: [https://github.com/mohamedfawzizaki/e2e-devops-multi-tier-webstack]
 ```
